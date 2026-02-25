@@ -7,7 +7,7 @@ Quick Start Guide:
 
 1.  Install Certificate: In your Niagara Workbench and Station, install the gline.pem certificate file.
 2.  Add the JAR: Import the AIbotAgent-rt.jar library into your Niagara project.
-3.  Get Your License: Send us your host ID at mailto:jason.zhang@gline-net.com, and we'll provide you with a temporary trial license.
+3.  Get Your License: Send us your host ID at mailto: jason.zhang@gline-net.com, and we'll provide you with a temporary trial license.
 4.  Ready to Go: Once activated, you can start calling AI services directly from your Niagara Station.
 
 Features:
